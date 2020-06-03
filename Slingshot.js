@@ -17,7 +17,7 @@ class SlingShot{
         this.sling.bodyA = body;
     }
     
-    fly(){
+    flyhigh(){
         this.sling.bodyA = null;
     }
 
